@@ -13,7 +13,7 @@ const Jumbotron = () => {
           </div>
           <div className="col col-sm-12 col-md-7">
             <div className="pt-4 mt-4 text-center">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/B0SxxHAImhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/B0SxxHAImhc" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
           </div>
         </div>
