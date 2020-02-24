@@ -54,7 +54,6 @@ handleVideoChange(item, event){
       <div>
         <Jumbotron/>
         <Table handleVideoChange={this.handleVideoChange.bind(this)} course_modules={this.state.course_modules}/>
-        // passing the handleVideoChange into table
       </div>
     )
   }
